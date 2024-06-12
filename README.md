@@ -1,4 +1,17 @@
-## Hi there 👋
+## Hey this is Ahmad! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> 
+
+My GitHub account information is as follows:
+
+<table border="0" cellspacing="0" cellpadding="0">
+    <tr>
+        <td>
+            <img src="https://github-readme-stats.vercel.app/api?username=RezaKhani-SSA&show_icons=True"/>
+        </td>
+        <td>
+            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RezaKhani-SSA&layout=compact&langs_count=10"/>
+        </td>
+    </tr>
+</table>
 
 <!--
 **RezaKhani-SSA/RezaKhani-SSA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,9 +28,3 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=RezaKhani-SSA&show_icons=true&theme=tokyonight&hide_border=true" width="415">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=RezaKhani-SSA&theme=tokyonight&hide_border=true" width="415">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RezaKhani-SSA&theme=tokyonight&hide_border=true&layout=compact" width="415">
-</p>
